@@ -1,5 +1,9 @@
 ![](https://ncase.me/anxiety-demo/sharing/thumb.png)
 
+# [한국어 데모 플레이](https://c2lv.github.io/anxiety-demo/)
+
+한국어 전체 버전은 [**여기**](https://kyleheren.github.io/anxiety/)서 플레이 하실 수 있습니다.
+
 # [Play the demo here!](https://ncase.me/anxiety-demo/)
 
 Everything I've made here is dedicated to the public domain, under [Creative Commons Zero](https://creativecommons.org/choose/zero/)!
